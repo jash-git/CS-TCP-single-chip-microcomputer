@@ -1,0 +1,8 @@
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\bin\Debug\V8 command sample.exe
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\bin\Debug\V8 command sample.pdb
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\obj\Debug\V8 command sample.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\obj\Debug\V8_command_sample.Form1.resources
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\obj\Debug\V8_command_sample.Properties.Resources.resources
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\obj\Debug\V8 command sample.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\obj\Debug\V8 command sample.exe
+C:\Users\jashliao\Desktop\V8 command sample\V8 command sample\obj\Debug\V8 command sample.pdb
